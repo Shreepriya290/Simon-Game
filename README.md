@@ -33,13 +33,6 @@ This project tests your memory skills by asking you to repeat a growing sequence
 
 ---
 
-## 📷 Screenshot  
-
-![Game Screenshot](https://raw.githubusercontent.com/Shreepriya290/Simon-Game/main/screenshot.png)  
-*(Add a screenshot of your game here for better presentation)*  
-
----
-
 ## 📂 Project Setup  
 If you want to run this project locally:  
 
@@ -51,3 +44,4 @@ git clone https://github.com/Shreepriya290/Simon-Game.git
 cd Simon-Game
 
 # Open index.html in your browser
+
